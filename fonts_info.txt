@@ -1,0 +1,6 @@
+List of Fonts used in template 
+
+
+Ubuntu			http://font.ubuntu.com/
+
+
