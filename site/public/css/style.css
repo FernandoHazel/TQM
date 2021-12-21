@@ -1092,6 +1092,7 @@ h1.brand a span {
 .contact-form .message {
   display: block;
   width: 100%;
+  margin-bottom: 3%;
 }
 .contact-form input,
 .contact-form textarea {
@@ -1212,7 +1213,12 @@ footer h5 {
 .addr-phone {
   background: url(../img/phone.png) 0 0 no-repeat;
   padding-left: 32px;
+  margin-bottom: 10px;
+}
+.addr-email {
+  padding-left: 32px;
   margin-bottom: 0;
+
 }
 .addr h5 {
   margin: 20px 0 2px 0;

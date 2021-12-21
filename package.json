@@ -1,0 +1,26 @@
+{
+  "name": "paginatqm",
+  "version": "1.0.0",
+  "description": "página de soluciones químicas ",
+  "main": "site//src//app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoHazel/TQM.git"
+  },
+  "author": "Fernando Hazel Ascencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoHazel/TQM/issues"
+  },
+  "homepage": "https://github.com/FernandoHazel/TQM#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-router": "^0.0.1",
+    "nodemon": "^2.0.15"
+  }
+}

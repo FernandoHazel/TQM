@@ -1,0 +1,71 @@
+<head>
+  <title>TQM</title>
+  <meta charset="utf-8">
+  <link rel="icon" href="/img/icon-2.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/img/icon-2.png" type="image/x-icon" />
+  <meta name="description" content="Your description">
+  <meta name="keywords" content="Your keywords">
+  <meta name="author" content="Your name">
+  <link rel="stylesheet" href="/css/bootstrap.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/camera.css">
+  <link rel="stylesheet" href="/css/touchTouch.css">
+  <!-- font-awesome font -->
+  <link rel="stylesheet" href="/font/font-awesome.css" type="text/css" media="screen">
+  <!-- fontello font -->
+      <script src="/js/jquery.js"></script>
+      <script src="/js/jquery.easing.1.3.js"></script>
+      <script src="/js/jquery-migrate-1.1.1.js"></script>
+      <script src="/js/superfish.js"></script>
+      <script src="/js/jquery.mobilemenu.js"></script>
+       
+      <script src="/js/jquery.equalheights.js"></script>
+      <script src="/js/jquery.ui.totop.js"></script>
+      <script src="/js/camera.js"></script>
+      <script src="/js/jquery.ui.totop.js"></script>
+      <!--[if (gt IE 9)|!(IE)]><!-->
+    <script src="/js/jquery.mobile.customized.min.js"></script>
+      <!--<![endif]-->
+      <script src="/js/touchTouch.jquery.js"></script>
+      <script src="/js/jquery.carouFredSel-6.1.0-packed.js"></script>
+    <script src="/js/jquery.mousewheel.min.js"></script>
+    <script src="/js/jquery.touchSwipe.min.js"></script>
+      <script>
+          $(document).ready(function(){
+              jQuery('.camera_wrap').camera();
+      $('.magnifier').touchTouch();
+          });
+    $(function() {
+      $('#foo').carouFredSel({
+        auto: false,
+        responsive: true,
+        width: '100%',
+        prev: '#prev',
+        next: '#next',
+        scroll: 1,
+        items: {
+          height: 'auto',
+          width: 300,
+          visible: {
+            min: 1,
+            max: 3
+          }
+        },
+        mousewheel: true,
+        swipe: {
+          onMouse: true,
+          onTouch: true
+        }
+      });
+    });
+  </script>
+  <!--[if lt IE 8]>
+      <div style='text-align:center'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/img/upgrade.jpg"border="0"alt=""/></a></div>  
+  <![endif]-->
+<!--[if lt IE 9]>
+   
+  <link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+  <script src="assets/js/html5shiv.js"></script>
+<![endif]-->
+</head>
