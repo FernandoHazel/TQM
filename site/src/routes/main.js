@@ -1,15 +1,13 @@
-let express=require('express')
+let express=require('express');
+const { serviciosProductos } = require('../controllers/main-controller');
 let router =express.Router();
+let mainController = require('../controllers/main-controller')
 
 //Router de la aplicación
-router.get('/', (req,res)=>{
-    res.render('index')
-})
-router.get('/contacto', (req,res)=>{
-    res.render('contacto')
-})
-router.get('/cotizacion', (req,res)=>{
-    res.render('solicite-su-cotizacion')
-})
+router.get('/', mainController.index)
+router.get('/contacto', mainController.contacto)
+router.get('/cotizacion', mainController.cotizacion)
+router.get('/servicios-productos/:categoryId?', mainController.serviciosProductos)
+router.get('/detalle/:id?', mainController.detail)
 
 module.exports=router

@@ -65,40 +65,16 @@
             </div>
         </div>
         <br>
-         <ul class="block-3 row">
-            <li class="span3">
-            	<div class="block-3-box maxheight">
-                	<a class="magnifier" href="img/page1-img7-big.jpg"><img src="img/page1-img7.jpg" alt=""></a>
-                    <div class="caption maxheight4"><a href="#">Sed ut perspiciatis unde</a></div>
-                </div>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  <br>
-                <a href="#" class="btn">more</a>
-            </li>
-            <li class="span3">
-            	<div class="block-3-box maxheight">
-                	<a class="magnifier" href="img/page1-img8-big.jpg"><img src="img/page1-img8.jpg" alt=""></a>
-                    <div class="caption maxheight4"><a href="#">massa as laoreetum</a></div>
-                </div>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  <br>
-                <a href="#" class="btn">more</a>
-            </li>
-            <li class="span3">
-            	<div class="block-3-box maxheight">
-                	<a class="magnifier" href="img/page1-img9-big.jpg"><img src="img/page1-img9.jpg" alt=""></a>
-                    <div class="caption maxheight4"><a href="#">dolore ipsum est</a></div>
-                </div>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  <br>
-                <a href="#" class="btn">more</a>
-            </li>
-            <li class="span3">
-            	<div class="block-3-box maxheight">
-                	<a class="magnifier" href="img/page1-img10-big.jpg"><img src="img/page1-img10.jpg" alt=""></a>
-                    <div class="caption maxheight4"><a href="#">sit amet consectetuer</a></div>
-                </div>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  <br>
-                <a href="#" class="btn">more</a>
-            </li>
-            
+          <ul class="block-3 row">
+            <% categoryArray.forEach(category => {%>
+              <li class="span3", style="margin-bottom: 5%;">
+                <div class="block-3-box maxheight">
+                      <div class="caption maxheight4"><a href="#"><%=category.name%></a></div>
+                  </div>
+                  <%=category.description%><br>
+                  <a href="/servicios-productos/<%=category.categoryId%>" class="btn">saber más</a>
+              </li>
+            <% })%>
          </ul>
     </div>       
   </div>       

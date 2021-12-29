@@ -1,0 +1,50 @@
+[
+    {
+        "categoryId": "1",
+        "sectionId": "1",
+        "id": "1",
+        "name": "producto1",
+        "img": "/img/detail/closing.JPG",
+        "description": "Esta es la imágen del closing C1 S1"
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "1",
+        "id": "2",
+        "name": "producto1",
+        "img": "/img/detail/closing.JPG",
+        "description": "Esta es la imágen del closing C1 S1"
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "2",
+        "id": "3",
+        "name": "producto2",
+        "img": "/img/detail/CN flyer.png",
+        "description": "Esta es la imágen del flyer C1 S2"
+    },
+    {
+        "categoryId": "2",
+        "sectionId": "1",
+        "id": "4",
+        "name": "producto3",
+        "img": "/img/detail/CN.JPG",
+        "description": "Esta es la imágen de CN C2 S1"
+    },
+    {
+        "categoryId": "2",
+        "sectionId": "2",
+        "id": "5",
+        "name": "producto3",
+        "img": "/img/detail/CN.JPG",
+        "description": "Esta es la imágen de CN C2 S2"
+    },
+    {
+        "categoryId": "4",
+        "sectionId": "3",
+        "id": "6",
+        "name": "producto3",
+        "img": "/img/detail/CN.JPG",
+        "description": "Esta es la imágen de CN C4 S3"
+    }
+]

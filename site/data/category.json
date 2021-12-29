@@ -1,0 +1,32 @@
+[
+    {
+        "categoryId": "1",
+        "name": "CALENTAMIENTO DE AGUA",
+        "img": "/img/category/frame_0.jpg",
+        "descripcion": "Esta es la categoría 1"
+    },
+    {
+        "categoryId": "2",
+        "name": "SISTEMAS DE VAPOR",
+        "img": "/img/category/frame_25.jpg",
+        "description": "Esta es la categoría 2"
+    },
+    {
+        "categoryId": "3",
+        "name": "TRATAMIENTO DE AGUA",
+        "img": "/img/category/frame_32.jpg",
+        "description": "Esta es la categoría 3"
+    },
+    {
+        "categoryId": "4",
+        "name": "PRODUCTOS QUÍMICOS",
+        "img": "/img/category/frame_0.jpg",
+        "description": "Esta es la categoría 4"
+    },
+    {
+        "categoryId": "5",
+        "name": "CONTROL DE LEGIONELLA",
+        "img": "/img/category/frame_25.jpg",
+        "description": "Esta es la categoría 5"
+    }
+]

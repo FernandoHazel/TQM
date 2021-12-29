@@ -1,0 +1,67 @@
+[
+    {
+        "categoryId": "1",
+        "sectionId": "1",
+        "name": "CALENTADORES DE ALTA EFICIENCIA EVO MARCA HAMILTON"
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "2",
+        "name": "CALENTADOR DE ALTA EFICIENCIA PARA ALTOS VOLÚMENES SOLSTREAM"
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "name": "OTROS EQUIPOS"
+    },
+    {
+        "categoryId": "2",
+        "sectionId": "1",
+        "name": "EQUIPOS"
+    },
+    {
+        "categoryId": "2",
+        "sectionId": "2",
+        "name": "GESTIÓN Y CONTROL DE VAPOR"
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "1",
+        "name": "PRETRATAMIENTO DEL AGUA"
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "2",
+        "name": "SERVICIO Y CONTROL"
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "3",
+        "name": "PROYECTOS DE REUSO DE AGUAS"
+    },
+    {
+        "categoryId": "4",
+        "sectionId": "1",
+        "name": "QUÍMICOS DE TRATAMIENTO DEL AGUA"
+    },
+    {
+        "categoryId": "4",
+        "sectionId": "2",
+        "name": "FLOCULANTES, COAGULANTES Y ANTIESPUMANTES"
+    },
+    {
+        "categoryId": "4",
+        "sectionId": "3",
+        "name": "PRODUCTOS QUÍMICOS DE LIMPIEZA INSTITUCIONAL"
+    },
+    {
+        "categoryId": "4",
+        "sectionId": "4",
+        "name": "PRODUCTOS QUÍMICOS INDUSTRIALES"
+    },
+    {
+        "categoryId": "5",
+        "sectionId": "1",
+        "name": "EQUIPOS, PRODUCTOS Y SERVICIOS"
+    }
+]
