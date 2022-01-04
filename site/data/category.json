@@ -2,31 +2,31 @@
     {
         "categoryId": "1",
         "name": "CALENTAMIENTO DE AGUA",
-        "img": "/img/category/frame_0.jpg",
-        "descripcion": "Esta es la categoría 1"
+        "img": "",
+        "description": "Sistema companion indirect para calentamiento de agua del alberca y regaderas sistemas a la medida. Desarrollos hechos a la medida de las necesidad de cada cliente de acuerdo a lo que el cliente requiera se realiza la ingeniería y se propone un programa de trabajo para desarrollar los sistemas específicos incluyendo sistemas de mezcla , calentamiento a diferentes temperaturas con un solo equipo , el uso de tecnologías mixtas como bombas de calor y calentadores para la mayor eficiencia del sistema Calentamiento de agua. Sistema de calentamiento de agua instantáneo que entrega agua con un 99% de eficiencia, enciende y el agua caliente está disponible , ideal para agua de limpieza industrial , así como para preparación de fórmulas y alimentos, está autorizado por NSF ideal para CIP en la industria de alimentos. EVO es un  sistemas de calentamiento de agua con eficiencias de 99 % , construidos en acero inoxidable 316 L y se pueden utilizar como calentador de agua para procesos comerciales , comerciales ligeros así como hospitales industria alimenticia, etc Lattner / precision boilers/ armstrong Lattner Equipo ideal para sistemas de vapor de bajo consumo ideales hasta 50 hp, sistemas de alta eficiencia par requerimientos como lavanderías, hoteles, hospitales, fabricas de alimentos etc. Sistemas sencillos de fácil mantenimiento On/ off o modulantes. Somos tratadores de agua de proceso y residual. Podemos ayudarlos en el desarrollo de una química correcta de los sistemas de Calderas, sistemas cerrados de agua caliente y fría , torres de enfriamiento y adicionalmente Una amplia gama de equipo para mejorar los procesos como son Sistemas de filtración Desmineralización Osmosis Suavizadores Sistemas de dosificación de químicos Y bombeo ETC."
     },
     {
         "categoryId": "2",
         "name": "SISTEMAS DE VAPOR",
-        "img": "/img/category/frame_25.jpg",
-        "description": "Esta es la categoría 2"
+        "img": "",
+        "description": ""
     },
     {
         "categoryId": "3",
         "name": "TRATAMIENTO DE AGUA",
-        "img": "/img/category/frame_32.jpg",
-        "description": "Esta es la categoría 3"
+        "img": "",
+        "description": ""
     },
     {
         "categoryId": "4",
         "name": "PRODUCTOS QUÍMICOS",
-        "img": "/img/category/frame_0.jpg",
-        "description": "Esta es la categoría 4"
+        "img": "",
+        "description": ""
     },
     {
         "categoryId": "5",
         "name": "CONTROL DE LEGIONELLA",
-        "img": "/img/category/frame_25.jpg",
-        "description": "Esta es la categoría 5"
+        "img": "",
+        "description": ""
     }
 ]

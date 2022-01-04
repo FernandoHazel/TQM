@@ -16,9 +16,10 @@
               <div class="span12">
                   <div class="slider">
                     <div class="camera_wrap">
-                      <div data-src="img/slide-1.jpg"></div>
-                      <div data-src="img/slide-2.jpg"></div>
-                      <div data-src="img/slide-3.jpg"></div>
+                      <div data-src="/img/detail/index/20190321_103035_rgb.jpg"></div>
+                      <div data-src="/img/detail/index/73304577_2519109061513098_7453060682938843136_n.jpeg"></div>
+                      <div data-src="/img/detail/index/130891543_3535637876526873_4540294275917872731_n.jpeg"></div>
+                      <div data-src="/img/detail/index/WhatsApp Image 2020-11-11 at 14.03.26.jpeg"></div>
                     </div>
                   </div>   
               </div>
@@ -69,7 +70,7 @@
             <% categoryArray.forEach(category => {%>
               <li class="span3", style="margin-bottom: 5%;">
                 <div class="block-3-box maxheight">
-                      <div class="caption maxheight4"><a href="#"><%=category.name%></a></div>
+                      <div class="caption maxheight4"><a href="/servicios-productos/<%=category.categoryId%>"><%=category.name%></a></div>
                   </div>
                   <%=category.description%><br>
                   <a href="/servicios-productos/<%=category.categoryId%>" class="btn">saber más</a>

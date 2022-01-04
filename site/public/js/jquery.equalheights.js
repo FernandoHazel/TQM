@@ -13,6 +13,7 @@ $(function(){
 	$(".maxheight4").each(function(){
 		$(this).contents().wrapAll("<div class='box_inner'></div>");
 	})
+	$(".maxheight4").css({"overflow": "auto"});
 	$(".maxheight5").each(function(){
 		$(this).contents().wrapAll("<div class='box_inner'></div>");
 	})

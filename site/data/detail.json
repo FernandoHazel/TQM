@@ -3,48 +3,243 @@
         "categoryId": "1",
         "sectionId": "1",
         "id": "1",
-        "name": "producto1",
-        "img": "/img/detail/closing.JPG",
-        "description": "Esta es la imágen del closing C1 S1"
+        "name": "229034_101283423295686_1812687_n",
+        "img": "/img/detail/calentamiento de agua/229034_101283423295686_1812687_n.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": "/PDFs/calentamiento de agua/AIPL Heat Pump HFO Broichure.pdf"
     },
     {
         "categoryId": "1",
         "sectionId": "1",
         "id": "2",
-        "name": "producto1",
-        "img": "/img/detail/closing.JPG",
-        "description": "Esta es la imágen del closing C1 S1"
+        "name": "1780916_648059275284762_3599259887019983646_n",
+        "img": "/img/detail/calentamiento de agua/1780916_648059275284762_3599259887019983646_n.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
     },
     {
         "categoryId": "1",
         "sectionId": "2",
         "id": "3",
-        "name": "producto2",
-        "img": "/img/detail/CN flyer.png",
-        "description": "Esta es la imágen del flyer C1 S2"
+        "name": "65254728_2275707345853272_5091020835565600768_n",
+        "img": "/img/detail/calentamiento de agua/65254728_2275707345853272_5091020835565600768_n.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "2",
+        "id": "4",
+        "name": "65318108_2275707455853261_5118129994828087296_n",
+        "img": "/img/detail/calentamiento de agua/65318108_2275707455853261_5118129994828087296_n.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "2",
+        "id": "5",
+        "name": "a1c58217-1ff4-4e64-b058-d19b71d949f8",
+        "img": "/img/detail/calentamiento de agua/a1c58217-1ff4-4e64-b058-d19b71d949f8.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "6",
+        "name": "bombas de calor nestle india",
+        "img": "/img/detail/calentamiento de agua/bombas de calor nestle india.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "7",
+        "name": "companion indirect",
+        "img": "/img/detail/calentamiento de agua/companion indirect.jpeg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "8",
+        "name": "flo direct",
+        "img": "/img/detail/calentamiento de agua/flo direct.JPG",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "9",
+        "name": "flo direct(1)",
+        "img": "/img/detail/calentamiento de agua/flo direct(1).jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "10",
+        "name": "HP_RGB",
+        "img": "/img/detail/calentamiento de agua/HP_RGB.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "11",
+        "name": "Imagen 15-10-21 a las 12.05",
+        "img": "/img/detail/calentamiento de agua/Imagen 15-10-21 a las 12.05.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "12",
+        "name": "PHOTO-2020-11-11-14-06-21",
+        "img": "/img/detail/calentamiento de agua/PHOTO-2020-11-11-14-06-21.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "12",
+        "name": "PIC_Feld_4_CMYK",
+        "img": "/img/detail/calentamiento de agua/PIC_Feld_4_CMYK.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "13",
+        "name": "sistemas a la medida 2",
+        "img": "/img/detail/calentamiento de agua/sistemas a la medida 2.jpeg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "3",
+        "id": "14",
+        "name": "sistemas a la medida",
+        "img": "/img/detail/calentamiento de agua/sistemas a la medida.jpeg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
     },
     {
         "categoryId": "2",
         "sectionId": "1",
-        "id": "4",
-        "name": "producto3",
-        "img": "/img/detail/CN.JPG",
-        "description": "Esta es la imágen de CN C2 S1"
+        "id": "15",
+        "name": "Agua caliente instantanea",
+        "img": "/img/detail/sistemas de vapor/Agua caliente instantanea .JPG",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "2",
+        "sectionId": "1",
+        "id": "16",
+        "name": "Captura de Pantalla 2021-10-15 a la(s) 11.56.12",
+        "img": "/img/detail/sistemas de vapor/Captura de Pantalla 2021-10-15 a la(s) 11.56.12.png",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "2",
+        "sectionId": "1",
+        "id": "17",
+        "name": "image2",
+        "img": "/img/detail/sistemas de vapor/image2.jpeg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
     },
     {
         "categoryId": "2",
         "sectionId": "2",
-        "id": "5",
-        "name": "producto3",
-        "img": "/img/detail/CN.JPG",
-        "description": "Esta es la imágen de CN C2 S2"
+        "id": "18",
+        "name": "Model_FTS_Gas_Steam-1536x1536",
+        "img": "/img/detail/sistemas de vapor/Model_FTS_Gas_Steam-1536x1536.png",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
     },
     {
-        "categoryId": "4",
-        "sectionId": "3",
-        "id": "6",
-        "name": "producto3",
-        "img": "/img/detail/CN.JPG",
-        "description": "Esta es la imágen de CN C4 S3"
+        "categoryId": "2",
+        "sectionId": "2",
+        "id": "19",
+        "name": "sistema de vapor",
+        "img": "/img/detail/sistemas de vapor/sistema de vapor.png",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "1",
+        "id": "20",
+        "name": "1185325_486024774821547_52396255_n",
+        "img": "/img/detail/tratamiento de agua/1185325_486024774821547_52396255_n.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "1",
+        "id": "21",
+        "name": "1669866_750866225004066_9169448978026217321_o",
+        "img": "/img/detail/tratamiento de agua/1669866_750866225004066_9169448978026217321_o.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "1",
+        "id": "22",
+        "name": "12068622_884207685003252_1404641545777806972_o",
+        "img": "/img/detail/tratamiento de agua/12068622_884207685003252_1404641545777806972_o.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "1",
+        "id": "23",
+        "name": "12069016_884207681669919_5288618190646208579_o",
+        "img": "/img/detail/tratamiento de agua/12069016_884207681669919_5288618190646208579_o.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "1",
+        "id": "24",
+        "name": "15622152_1190865111004173_9057080797459120052_n",
+        "img": "/img/detail/tratamiento de agua/15622152_1190865111004173_9057080797459120052_n.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "1",
+        "id": "25",
+        "name": "73304577_2519109061513098_7453060682938843136_n",
+        "img": "/img/detail/tratamiento de agua/73304577_2519109061513098_7453060682938843136_n.jpeg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "1",
+        "id": "25",
+        "name": "94756413_2910503172373683_2978623737479299072_n",
+        "img": "/img/detail/tratamiento de agua/94756413_2910503172373683_2978623737479299072_n.jpg",
+        "description": "Aún hace falta una descripción",
+        "pdf": ""
     }
 ]

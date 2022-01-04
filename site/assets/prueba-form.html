@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="contact-form" class="contact-form" >
+        <div class="success"> Formulario enviado! <strong>Pronto nos contáctaremos con usted.</strong> </div>
+        <fieldset>
+          <div class="coll-1">
+            <label class="name">
+              <input type="text" value="Nombre:" name="Nombre"><br>
+              <span class="error">*Este es un nombre válido.</span> <span class="empty">*Este campo es requerido.</span> </label>
+          </div>
+          <div class="coll-2">
+            <label class="email">
+              <input type="email" value="Correo:" name="Correo"><br>
+              <span class="error">*Esta no es una dirección de correo válida.</span> <span class="empty">*Este campo es requerido.</span> </label>
+          </div>
+          <div class="coll-3">
+            <label class="phone">
+              <input type="tel" value="Teléfono" name="Teléfono"><br>
+              <span class="error">*Este no es un número válido.</span> <span class="empty">*Este campo es requerido.</span> </label>
+          </div>
+    
+          <!-- Falta verificar las validaciones y cambiar las clases a las correctas -->
+          <div class="coll-1">
+           <label class="name ">
+             <input type="text" value="Estado:" name="Estado"><br>
+             <span class="error">*Este no es un texto válido.</span> <span class="empty">*Este campo es requerido.</span> </label>
+         </div>
+         <div class="coll-2">
+           <label class="name">
+             <input type="text" value="Empresa:" name="Empresa"><br>
+             <span class="error">*Este no es un texto válido.</span> <span class="empty">*Este campo es requerido.</span> </label>
+         </div>
+         <div class="coll-3">
+           <label class="name">
+             <input type="text" value="Puesto" name="Puesto"><br>
+             <span class="error">*Este no es un texto válido.</span> <span class="empty">*Este campo es requerido.</span> </label>
+         </div>
+           
+    
+          <div class="clear"></div>
+          <div>
+            <label class="message">
+              <textarea name="mensaje">Problema o necesidad</textarea><br>
+              <span class="error">*El mensaje es muy corto.</span> <span class="empty">*Este campo es requerido.</span> </label>
+          </div>
+    
+          <!-- Este campo debe ser opcional -->
+          <div>
+           <label class="message notRequired">
+             <textarea name="Información adicional">Información adicional</textarea><br>
+             <span class="error">*El mensaje es muy corto.</span> <span class="empty">*Este campo es requerido.</span> </label>
+         </div>
+         
+          <div class="clear"></div>
+          <div class="buttons-wrapper"><a class="btn" data-type="submit">Enviar</a><span class="text-info">*Campos requeridos</span></div>
+        </fieldset>
+      </form>
+</body>
+</html>

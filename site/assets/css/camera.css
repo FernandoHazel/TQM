@@ -16,16 +16,19 @@
 	margin: 0;
 	padding: 0;
 	vertical-align: baseline;
-	list-style: none
+	list-style: none;
+	overflow: auto;
 }
 .camera_wrap {
 	display: none;
 	float: left;
 	position: relative;
 	z-index: 0;
+	overflow: auto;
 }
 .camera_wrap img {
 	max-width: none!important;
+	overflow: auto;
 }
 .camera_fakehover {
 	height: 100%;
@@ -36,6 +39,7 @@
 }
 .camera_wrap {
 	width: 100%;
+	height: 100%;
 }
 .camera_src {
 	display: none;

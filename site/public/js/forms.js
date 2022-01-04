@@ -11,7 +11,7 @@
 					successCl:'success',
 					successShow:'4000',
 					mailHandlerURL:'bat/MailHandler.php',
-					ownerEmail:'support@template-help.com',
+					ownerEmail:'fernandohazel1@gmail.com',
 					stripHTML:true,
 					smtpMailServer:'localhost',
 					targets:'input,textarea',
@@ -182,9 +182,9 @@
 })(jQuery)
 $(window).load(function(){
    $('#contact-form2').forms({
-	ownerEmail:'#'
+	ownerEmail:'fernandohazel1@gmail.com"'
    })
    $('#contact-form').forms({
-	ownerEmail:'#'
+	ownerEmail:'fernandohazel1@gmail.com"'
    })
 })

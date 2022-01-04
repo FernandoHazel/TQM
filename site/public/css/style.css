@@ -116,6 +116,8 @@ figure.img-polaroid {
 .magnifier {
   position: relative;
   display: block;
+  max-height: 25vh;
+  overflow: auto;
 }
 .magnifier:after {
   content: '';
