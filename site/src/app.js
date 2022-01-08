@@ -1,7 +1,7 @@
 // load the things we need
 var express = require('express');
 var app = express();
-var port = 3000
+var port = 80
 const path = require("path")
 const rutaMain =require('./routes/main.js')
 
