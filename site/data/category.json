@@ -9,24 +9,24 @@
         "categoryId": "2",
         "name": "SISTEMAS DE VAPOR",
         "img": "",
-        "description": ""
+        "description": "Lattner / precision boilers/ armstrong. Equipo ideal para sistemas de vapor de bajo consumo ideales hasta 50 hp , sistemas de alta eficiencia para requerimientos como lavanderías, hoteles , hospitales, fabricas de alimentos etc. Sistemas sencillos de fácil mantenimiento. On/ off o modulante."
     },
     {
         "categoryId": "3",
         "name": "TRATAMIENTO DE AGUA",
         "img": "",
-        "description": ""
+        "description": "Somos tratadores de agua de proceso y residual. Podemos ayudarlos en el desarrollo de una química correcta de los sistemas de caldera; Sistemas cerrados de agua caliente y fría , torres de enfriamiento y adicionalmente una amplia gama de equipo para mejorar los procesos como son: sistemas de filtración, osmosis inversa, desmineralizadores etc. Así como una amplia gama de polímeros para tratamiento de agua."
     },
     {
         "categoryId": "4",
         "name": "PRODUCTOS QUÍMICOS",
         "img": "",
-        "description": ""
+        "description": "Contamos con una amplia gama de materiales para limpieza en el área de ama de llaves, áreas públicas, cocina , así como para las más severas condiciones en la industria de alimentos y metalmecánica."
     },
     {
         "categoryId": "5",
         "name": "CONTROL DE LEGIONELLA",
         "img": "",
-        "description": ""
+        "description": "En TQM tenemos una gran cantidad de productos para el control de legionella como son las pastillas sanitizantes , desengrasantes para fan and coil asi como sanitizantes liquidos , y sobretodo el BRAIN una válvula mezcladora digital para el control de la temperatura del agua en los circuitos de agua domestica , la cual mantiene los tanques a una temperatura de 60 grados y en la linea puede mantener 52 grados para evitar el crecimiento de la Legionella y posteriormente aumentar la temperatura en la distribución y asi lograr el control total. "
     }
 ]

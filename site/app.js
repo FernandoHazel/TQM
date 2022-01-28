@@ -19,7 +19,7 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended:false}))
 
 //Configurar ejs como el template engine de la app
-app.set('views', path.join(__dirname, '/'));
+app.set('views', path.join(__dirname, '/views'));
 app.set('view engine', 'ejs')
 
 //Seteamos un puerto para el momento de subir a producción
@@ -34,4 +34,5 @@ app.use((req, res, next) => {
 })
 
 app.listen(app.get('port'));
-console.log(`${app.get('port')} is the magic port`); 
+console.log(`${app.get('port')} is the magic port`);
+console.log(__dirname); 
