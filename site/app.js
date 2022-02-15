@@ -15,7 +15,7 @@ if (process.env.NODE_ENV === 'development'){
 const app = express();
 
 //creando una dirección estática
-app.use(express.static('public'));
+app.use(express.static(path.join(__dirname + '/public')))
 
 //morgan nos permite debuguear
 app.use(morgan('dev'))
