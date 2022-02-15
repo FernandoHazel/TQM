@@ -6,10 +6,16 @@ const bodyParser = require('body-parser')
 const morgan = require('morgan')
 const config = require('./config/config')
 
+console.log(process.env.NODE_ENV)
+
+if (process.env.NODE_ENV === 'development'){
+    require('dotenv').config()
+}
+
 const app = express();
 
 //creando una dirección estática
-app.use("/", express.static(__dirname+'/public'))
+app.use(express.static('public'));
 
 //morgan nos permite debuguear
 app.use(morgan('dev'))
@@ -26,7 +32,11 @@ app.set('view engine', 'ejs')
 app.set('port', process.env.PORT || 80)
 
 // index page
-app.use('/', rutaMain)
+if (process.env.NODE_ENV === 'development'){
+    app.use('/', rutaMain)
+}else{
+    app.use('/site/site2/', rutaMain)
+}
 
 //404
 app.use((req, res, next) => {
