@@ -15,7 +15,7 @@ if (process.env.NODE_ENV === 'development'){
 const app = express();
 
 //creando una dirección estática
-app.use(express.static(path.join(__dirname + '/public')))
+app.use("/", express.static(path.join(__dirname + '/public')))
 
 //morgan nos permite debuguear
 app.use(morgan('dev'))
@@ -28,6 +28,7 @@ app.use(bodyParser.urlencoded({extended:false}))
 app.set('views', path.join(__dirname, '/views'));
 app.set('view engine', 'ejs')
 
+
 //Seteamos un puerto para el momento de subir a producción
 app.set('port', process.env.PORT || 80)
 
@@ -35,7 +36,7 @@ app.set('port', process.env.PORT || 80)
 if (process.env.NODE_ENV === 'development'){
     app.use('/', rutaMain)
 }else{
-    app.use('/site/site2/', rutaMain)
+    app.use('/site4', rutaMain)
 }
 
 //404
