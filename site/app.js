@@ -17,6 +17,7 @@ const app = express();
 //creando una dirección estática
 app.use("/", express.static(path.join(__dirname + '/public')))
 
+
 //morgan nos permite debuguear
 app.use(morgan('dev'))
 
@@ -36,7 +37,7 @@ app.set('port', process.env.PORT || 80)
 if (process.env.NODE_ENV === 'development'){
     app.use('/', rutaMain)
 }else{
-    app.use('/site4', rutaMain)
+    app.use('/', rutaMain)
 }
 
 //404

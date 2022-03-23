@@ -16,7 +16,10 @@
            <h2><%=category.name%></h2>
          </div>
       </div>
-      <span><%=category.description%></span>
+      <div style="text-align: center; font-size: 14px; padding-left: 10%; padding-right: 10%;">
+        <span><%=category.description%></span>
+      </div>
+      
   </div>
     <% sectionArray.forEach(section => {%>
       <% if (category.categoryId == section.categoryId){%>

@@ -598,7 +598,7 @@ h1.brand a span {
   position: relative;
   z-index: 1;
   float: none;
-  min-height: 200px;
+  min-height: 650px;
 }
 .slider .camera_wrap img {
   -webkit-border-radius: 0px;

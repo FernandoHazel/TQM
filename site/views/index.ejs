@@ -16,10 +16,10 @@
               <div class="span12">
                   <div class="slider">
                     <div class="camera_wrap">
-                      <div data-src="/img/detail/index/20190321_103035_rgb.jpg"></div>
-                      <div data-src="/img/detail/index/73304577_2519109061513098_7453060682938843136_n.jpeg"></div>
-                      <div data-src="/img/detail/index/130891543_3535637876526873_4540294275917872731_n.jpeg"></div>
-                      <div data-src="/img/detail/index/WhatsApp Image 2020-11-11 at 14.03.26.jpeg"></div>
+                      <div data-src="/img/detail/index/1_HD.jpg"></div>
+                      <div data-src="/img/detail/index/2_HD.jpg"></div>
+                      <div data-src="/img/detail/index/3_HD.jpg"></div>
+                      <div data-src="/img/detail/index/4_HD.jpg"></div>
                     </div>
                   </div>   
               </div>
@@ -28,7 +28,7 @@
      </div>   
      <div class="container"> 
          <div class="row">
-            <div class="span12 block-1">
+            <div class="span12 block-1" >
               <h2>¡Del agua nos encargamos nosotros!</h2>
               <br>
               <!-- <span>Somos tratadores de agua de proceso y residual 
@@ -43,13 +43,14 @@
          </div>
      </div>   
      <div class="bg-grey">
-     	<div class="container">
+     	<div class="container" style="text-align: center; width: 70vw; margin-bottom: 10%;">
         <h2>¿Quienes somos?</h2>
-        <span>Somos tratadores de agua de proceso residual 
+        <span style="font-size: 14px; ">Somos tratadores de agua de proceso residual 
            y podemos ayudarlos en el desarrollo de una química correcta de los sistemas de 
           calderas. Grupo TQM inició sus operaciones en 1990 como una compañía dedicada a la ingeniería en el campo del tratamiento de agua , posteriormente nos enfocamos en apoyar a nuestros clientes ofreciéndoles ingeniería para la implementación de ahorros en todas las áreas de generación de vapor y agua caliente, comprometidos siempre con dar la mejor opción de costo de aplicación a nuestros clientes.
           </span>
-          <span>Sistemas cerados de agua caliente y fria, 
+        <span style="font-size: 14px;">Somos tratadores de agua de proceso residual 
+          <span >Sistemas cerados de agua caliente y fria, 
             torres de enfriamiento y adicionalmente una amplia gama de equipo para 
             mejorar los procesos como son sistemas de filtración, desmineralización, osmosis, 
             suavizadores, sistemas de dosificación de químicos y bombeo etc.</span>
@@ -57,23 +58,26 @@
        <br>  
      </div> 
      <div class="container">
-     	<div class="row">
-        	<div class="span12">
-            	<h3 class="indent-1">Soluciones</h3>
-              <span>Contamos con diversas soluciones que se adaptan a los variados requerimientos de los clientes , desde la generación de agua caliente hasta las más sofisticadas aplicaciones que se requieran , con la opción de hacer equipos llave en mano para todas las necesidades. Con 30 años de experiencia Grupo
-                TQM se pone a sus órdenes en las
-                siguientes áreas: </span>
+     	<div class="row" >
+        	<div class="span12" style="text-align: center; margin-bottom: 5%; ">
+            	<h3 class="indent-1" style="text-align: center;">Soluciones</h3>
+              <div style=" padding-left: 30%; padding-right: 30%;">
+                <span style="font-size: 14px;">Contamos con diversas soluciones que se adaptan a los variados requerimientos de los clientes , desde la generación de agua caliente hasta las más sofisticadas aplicaciones que se requieran , con la opción de hacer equipos llave en mano para todas las necesidades. Con 30 años de experiencia Grupo
+                  TQM se pone a sus órdenes en las
+                  siguientes áreas: </span>
+              </div>
+              
             </div>
         </div>
         <br>
-          <ul class="block-3 row">
+          <ul class="block-3 row" style="text-align: center; padding-left: 30%; padding-right: 30%;">
             <% categoryArray.forEach(category => {%>
-              <li class="span3", style="margin-bottom: 5%;">
+              <li>
                 <div class="block-3-box maxheight">
                       <div class="caption maxheight4"><a href="/servicios-productos/<%=category.categoryId%>"><%=category.name%></a></div>
                   </div>
                   
-                  <a href="/servicios-productos/<%=category.categoryId%>" class="btn">saber más</a>
+                  <!--<a href="/servicios-productos/<//%=category.categoryId%>" class="btn">saber más</a>-->
               </li>
             <% })%>
          </ul>
