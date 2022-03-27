@@ -27,14 +27,15 @@
          <ul class="block-3 row">
           <% detailArray.forEach(detail => {%>
             <% if (category.categoryId == detail.categoryId && section.sectionId == detail.sectionId){%>
-            <li class="span3" style="margin-bottom: 5%;">
-            	<div class="block-3-box maxheight">
-                	<a class="magnifier" href="<%=detail.img%>"><img src="<%=detail.img%>" alt=""></a>
+            <li class="span3" style="margin-bottom: 5%; width: 300px;">
+            	<div class="block-3-box">
+                	<a  href="<%=detail.img%>"><img src="<%=detail.img%>" alt=""></a>
                     <div class="caption maxheight4"><%=detail.name%></div>
                 </div>
                 <%=detail.description%>  <br>
                 <% if (detail.pdf == ""){%>
-                  <a href="/detalle/<%=detail.id%>" class="btn">saber más</a>
+                  <a href="/cotizacion" class="btn">cotizar</a>
+                  <!--<a href="/detalle/<//%=detail.id%>" class="btn">cotizar</a>-->
                 <% }else{ %>
                   <a href="<%=detail.pdf%>" class="btn">ver pdf</a>
                 <% }%>

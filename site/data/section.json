@@ -2,16 +2,21 @@
     {
         "categoryId": "1",
         "sectionId": "1",
-        "name": "CALENTADORES DE ALTA EFICIENCIA EVO MARCA HAMILTON"
+        "name": "BOMBAS DE CALOR"
     },
     {
         "categoryId": "1",
         "sectionId": "2",
-        "name": "CALENTADOR DE ALTA EFICIENCIA PARA ALTOS VOLÚMENES SOLSTREAM"
+        "name": "EVO HAMILTON"
     },
     {
         "categoryId": "1",
         "sectionId": "3",
+        "name": "Flodirect"
+    },
+    {
+        "categoryId": "1",
+        "sectionId": "4",
         "name": "OTROS EQUIPOS"
     },
     {
@@ -32,12 +37,17 @@
     {
         "categoryId": "3",
         "sectionId": "2",
-        "name": "SERVICIO Y CONTROL"
+        "name": "PROYECTOS DE REUSO DE AGUAS"
     },
     {
         "categoryId": "3",
         "sectionId": "3",
-        "name": "PROYECTOS DE REUSO DE AGUAS"
+        "name": "SERVICIO Y CONTROL"
+    },
+    {
+        "categoryId": "3",
+        "sectionId": "4",
+        "name": "TRATAMIENTO DE AGUA"
     },
     {
         "categoryId": "4",
