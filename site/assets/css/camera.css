@@ -27,7 +27,7 @@
 	overflow: auto;
 }
 .camera_wrap img {
-	max-width: none!important;
+	max-width: 1920px;
 	overflow: auto;
 }
 .camera_fakehover {

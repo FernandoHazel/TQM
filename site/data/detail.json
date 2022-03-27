@@ -144,18 +144,9 @@
         "pdf": "/PDFs/sistemas de vapor/Vapor/Captura de Pantalla 2021-10-15 a la(s) 12.08.54.pdf"
     },
     {
-        "categoryId": "2",
-        "sectionId": "2",
-        "id": "17",
-        "name": "SAGE UMT",
-        "img": "/img/detail/sistemas de vapor/Vapor/Captura de Pantalla 2021-10-15 a la(s) 12.08.54.PNG",
-        "description": "",
-        "pdf": "/PDFs/sistemas de vapor/Vapor/Captura de Pantalla 2021-10-15 a la(s) 12.08.54.pdf"
-    },
-    {
         "categoryId": "3",
         "sectionId": "1",
-        "id": "18",
+        "id": "17",
         "name": "sistema de bombeo on_off",
         "img": "/img/detail/tratamiento de agua/Pretratamiento/sistema de bombeo on_off.jpg",
         "description": "",
@@ -164,7 +155,7 @@
     {
         "categoryId": "3",
         "sectionId": "1",
-        "id": "19",
+        "id": "18",
         "name": "sistema de osmosis inversa para lavado de material quirurgico",
         "img": "/img/detail/tratamiento de agua/Pretratamiento/sistema de osmosis inversa para lavado de material quirurgico.jpeg",
         "description": "",
@@ -173,7 +164,7 @@
     {
         "categoryId": "3",
         "sectionId": "1",
-        "id": "20",
+        "id": "19",
         "name": "sistema de ósmosis inversa",
         "img": "/img/detail/tratamiento de agua/Pretratamiento/sistema de ósmosis inversa.jpg",
         "description": "",
@@ -182,7 +173,7 @@
     {
         "categoryId": "3",
         "sectionId": "2",
-        "id": "21",
+        "id": "20",
         "name": "sistema de bombeo de velocidad variable",
         "img": "/img/detail/tratamiento de agua/proyectos de reuso de agua/sistema de bombeo de velocidad variable.jpg",
         "description": "",
@@ -191,7 +182,7 @@
     {
         "categoryId": "3",
         "sectionId": "3",
-        "id": "22",
+        "id": "21",
         "name": "sistema automatico de dosificación ",
         "img": "/img/detail/tratamiento de agua/servicio y control/sistema automatico de dosificación .jpg",
         "description": "",
@@ -200,7 +191,7 @@
     {
         "categoryId": "3",
         "sectionId": "3",
-        "id": "23",
+        "id": "22",
         "name": "sistema de dosificación automatico",
         "img": "/img/detail/tratamiento de agua/servicio y control/sistema de dosificación automatico.jpg",
         "description": "",
@@ -209,7 +200,7 @@
     {
         "categoryId": "3",
         "sectionId": "4",
-        "id": "24",
+        "id": "23",
         "name": "1185325_486024774821547_52396255_n",
         "img": "/img/detail/tratamiento de agua/Tratamiento de agua/1185325_486024774821547_52396255_n.jpg",
         "description": "",
@@ -218,7 +209,7 @@
     {
         "categoryId": "3",
         "sectionId": "4",
-        "id": "25",
+        "id": "24",
         "name": "1669866_750866225004066_9169448978026217321_o",
         "img": "/img/detail/tratamiento de agua/Tratamiento de agua/1669866_750866225004066_9169448978026217321_o.jpg",
         "description": "",
@@ -227,7 +218,7 @@
     {
         "categoryId": "3",
         "sectionId": "4",
-        "id": "26",
+        "id": "25",
         "name": "12068622_884207685003252_1404641545777806972_o",
         "img": "/img/detail/tratamiento de agua/Tratamiento de agua/12068622_884207685003252_1404641545777806972_o.jpg",
         "description": "",
@@ -236,7 +227,7 @@
     {
         "categoryId": "3",
         "sectionId": "4",
-        "id": "27",
+        "id": "26",
         "name": "12069016_884207681669919_5288618190646208579_o",
         "img": "/img/detail/tratamiento de agua/Tratamiento de agua/12069016_884207681669919_5288618190646208579_o.jpg",
         "description": "",
@@ -245,7 +236,7 @@
     {
         "categoryId": "3",
         "sectionId": "4",
-        "id": "28",
+        "id": "27",
         "name": "15622152_1190865111004173_9057080797459120052_n",
         "img": "/img/detail/tratamiento de agua/Tratamiento de agua/15622152_1190865111004173_9057080797459120052_n.jpg",
         "description": "",
@@ -254,7 +245,7 @@
     {
         "categoryId": "3",
         "sectionId": "4",
-        "id": "29",
+        "id": "28",
         "name": "73304577_2519109061513098_7453060682938843136_n",
         "img": "/img/detail/tratamiento de agua/Tratamiento de agua/73304577_2519109061513098_7453060682938843136_n.jpeg",
         "description": "",
@@ -263,7 +254,7 @@
     {
         "categoryId": "3",
         "sectionId": "4",
-        "id": "30",
+        "id": "29",
         "name": "94756413_2910503172373683_2978623737479299072_n",
         "img": "/img/detail/tratamiento de agua/Tratamiento de agua/94756413_2910503172373683_2978623737479299072_n.jpg",
         "description": "",
@@ -272,7 +263,7 @@
     {
         "categoryId": "3",
         "sectionId": "4",
-        "id": "31",
+        "id": "30",
         "name": "tratamiento de agua de calderas",
         "img": "/img/detail/tratamiento de agua/Tratamiento de agua/tratamiento de agua de calderas.jpg",
         "description": "",

@@ -598,7 +598,7 @@ h1.brand a span {
   position: relative;
   z-index: 1;
   float: none;
-  min-height: 650px;
+  min-height: 100%;
 }
 .slider .camera_wrap img {
   -webkit-border-radius: 0px;
@@ -1419,6 +1419,11 @@ footer h5 {
   }
   .container {
     padding: 0 20px;
+  }
+  .container-carousel {
+    padding: 0 20px;
+    max-width: 400px;
+    text-align: center;
   }
   header h1.brand {
     display: inline-block;
