@@ -3,7 +3,7 @@
         "categoryId": "5",
         "sectionId": "1",
         "id": "1",
-        "name": "The brain",
+        "name": "",
         "img": "/PDFs/control_de_legionella/The-brain.png",
         "description": "",
         "pdf": "/PDFs/control_de_legionella/The-brain.pdf"
@@ -12,7 +12,7 @@
         "categoryId": "1",
         "sectionId": "1",
         "id": "2",
-        "name": "HP_RGB",
+        "name": "",
         "img": "/PDFs/calentamiento_de_agua/Bombas_de_calor/AIPL_Heat_Pump_HFO_Broichure.jpg",
         "description": "",
         "pdf": "/PDFs/calentamiento_de_agua/Bombas_de_calor/AIPL_Heat_Pump_HFO_Broichure.pdf"
@@ -30,7 +30,7 @@
         "categoryId": "1",
         "sectionId": "2",
         "id": "6",
-        "name": "1.2mbtu_hr con tanque de 1000lt",
+        "name": "",
         "img": "/PDFs/calentamiento_de_agua/Evo_Hamilton/CSS_Brochure_DHW_LIT91220S_lr.png",
         "description": "",
         "pdf": "/PDFs/calentamiento_de_agua/Evo_Hamilton/CSS_Brochure_DHW_LIT91220S_lr.pdf"
@@ -48,7 +48,7 @@
         "categoryId": "1",
         "sectionId": "3",
         "id": "9",
-        "name": "Flodirect",
+        "name": "",
         "img": "/PDFs/calentamiento_de_agua/Flodirect/limpieza_armstrong.png",
         "description": "",
         "pdf": "/PDFs/calentamiento_de_agua/Flodirect/limpieza_armstrong.pdf"
@@ -57,7 +57,7 @@
         "categoryId": "1",
         "sectionId": "3",
         "id": "10",
-        "name": "Flo direct",
+        "name": "",
         "img": "/PDFs/calentamiento_de_agua/Flodirect/flo-direct_1.png",
         "description": "",
         "pdf": "/PDFs/calentamiento_de_agua/Flodirect/flo-direct_1.pdf"
@@ -75,7 +75,7 @@
         "categoryId": "1",
         "sectionId": "4",
         "id": "12",
-        "name": "Agua caliente instantanea ",
+        "name": "",
         "img": "/img/detail/calentamiento_de_agua/otros/Agua_caliente_instantanea.jpg",
         "description": "",
         "pdf": ""
@@ -84,7 +84,7 @@
         "categoryId": "2",
         "sectionId": "1",
         "id": "13",
-        "name": "caldera vertical lattner ",
+        "name": "",
         "img": "/PDFs/sistemas_de_vapor/Equipos/lattner.png",
         "description": "",
         "pdf": "/PDFs/sistemas_de_vapor/Equipos/lattner.pdf"
@@ -93,7 +93,7 @@
         "categoryId": "2",
         "sectionId": "1",
         "id": "14",
-        "name": "Model_FTS_Gas_Steam",
+        "name": "",
         "img": "/PDFs/sistemas_de_vapor/Equipos/FTS-7_29_11.png",
         "description": "",
         "pdf": "/PDFs/sistemas_de_vapor/Equipos/FTS-7_29_11.pdf"
@@ -102,7 +102,7 @@
         "categoryId": "2",
         "sectionId": "2",
         "id": "16",
-        "name": "SAGE UMT",
+        "name": "",
         "img": "/img/detail/sistemas_de_vapor/Vapor/Captura_de_Pantalla_2021-10-15_a_la(s)_12_08_54.png",
         "description": "",
         "pdf": "/PDFs/sistemas_de_vapor/Vapor/Captura_de_Pantalla_2021-10-15_a_la(s)_12_08_54.pdf"
@@ -111,7 +111,7 @@
         "categoryId": "3",
         "sectionId": "1",
         "id": "17",
-        "name": "sistema de bombeo on_off",
+        "name": "",
         "img": "/img/detail/tratamiento_de_agua/Pretratamiento/sistema_de_bombeo_on_off.jpg",
         "description": "",
         "pdf": ""
@@ -120,7 +120,7 @@
         "categoryId": "3",
         "sectionId": "1",
         "id": "18",
-        "name": "sistema de osmosis inversa para lavado de material quirurgico",
+        "name": "",
         "img": "/img/detail/tratamiento_de_agua/Pretratamiento/sistema_de_osmosis_inversa_para_lavado_de_material_quirurgico.jpeg",
         "description": "",
         "pdf": ""
@@ -129,7 +129,7 @@
         "categoryId": "3",
         "sectionId": "1",
         "id": "19",
-        "name": "sistema de ósmosis inversa",
+        "name": "",
         "img": "/img/detail/tratamiento_de_agua/Pretratamiento/sistema_de_osmosis_inversa.jpg",
         "description": "",
         "pdf": ""
@@ -138,7 +138,7 @@
         "categoryId": "3",
         "sectionId": "2",
         "id": "20",
-        "name": "sistema de bombeo de velocidad variable",
+        "name": "",
         "img": "/img/detail/tratamiento_de_agua/proyectos_de_reuso_de_agua/sistema_de_bombeo_de_velocidad_variable.jpg",
         "description": "",
         "pdf": ""
@@ -147,7 +147,7 @@
         "categoryId": "3",
         "sectionId": "3",
         "id": "21",
-        "name": "sistema automatico de dosificación ",
+        "name": "",
         "img": "/img/detail/tratamiento_de_agua/servicio_y_control/sistema_automatico_de_dosificacion.jpg",
         "description": "",
         "pdf": ""
@@ -156,7 +156,7 @@
         "categoryId": "3",
         "sectionId": "3",
         "id": "22",
-        "name": "sistema de dosificación automatico",
+        "name": "",
         "img": "/img/detail/tratamiento_de_agua/servicio_y_control/sistema_de_dosificacion_automatico.jpg",
         "description": "",
         "pdf": ""
@@ -228,7 +228,7 @@
         "categoryId": "3",
         "sectionId": "4",
         "id": "30",
-        "name": "tratamiento_de_agua de calderas",
+        "name": "",
         "img": "/img/detail/tratamiento_de_agua/Tratamiento_de_agua/tratamiento_de_agua_de_calderas.jpg",
         "description": "",
         "pdf": ""
