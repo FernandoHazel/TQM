@@ -27,6 +27,7 @@ const mainController={
         res.render('solicite-su-cotizacion')
     },
     serviciosProductos: (req,res)=>{
+        let haveDetail = false
         let categoryId = req.params.categoryId
         let category = {}
 
@@ -35,7 +36,7 @@ const mainController={
                 category = element
             }
         });
-        res.render('vista-de-productos-y-servicios', {category, detailArray, sectionArray})
+        res.render('vista-de-productos-y-servicios', {category, detailArray, sectionArray, haveDetail})
     },
     detail: (req,res)=>{
         let detailId = req.params.id

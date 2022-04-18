@@ -37,6 +37,9 @@ h3 {
   margin: 57px 0 26px 0;
   letter-spacing: -1px;
 }
+span {
+  line-height: 1.6;
+}
 h4 {
   font-size: 21px;
   color: #292929;

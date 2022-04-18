@@ -20,7 +20,7 @@
     {
         "categoryId": "1",
         "sectionId": "2",
-        "id": "4",
+        "id": "3",
         "name": "",
         "img": "/PDFs/calentamiento_de_agua/Evo_Hamilton/Companion_Brochure_LIT91139S_lr.png",
         "description": "",
@@ -29,7 +29,7 @@
     {
         "categoryId": "1",
         "sectionId": "2",
-        "id": "6",
+        "id": "4",
         "name": "",
         "img": "/PDFs/calentamiento_de_agua/Evo_Hamilton/CSS_Brochure_DHW_LIT91220S_lr.png",
         "description": "",
@@ -38,7 +38,7 @@
     {
         "categoryId": "1",
         "sectionId": "2",
-        "id": "8",
+        "id": "5",
         "name": "",
         "img": "/PDFs/calentamiento_de_agua/Evo_Hamilton/EVO_Brochure_LIT91117S.png",
         "description": "",
@@ -47,7 +47,7 @@
     {
         "categoryId": "1",
         "sectionId": "3",
-        "id": "9",
+        "id": "6",
         "name": "",
         "img": "/PDFs/calentamiento_de_agua/Flodirect/limpieza_armstrong.png",
         "description": "",
@@ -56,34 +56,16 @@
     {
         "categoryId": "1",
         "sectionId": "3",
-        "id": "10",
+        "id": "7",
         "name": "",
         "img": "/PDFs/calentamiento_de_agua/Flodirect/flo-direct_1.png",
         "description": "",
         "pdf": "/PDFs/calentamiento_de_agua/Flodirect/flo-direct_1.pdf"
     },
     {
-        "categoryId": "1",
-        "sectionId": "3",
-        "id": "11",
-        "name": "",
-        "img": "/img/detail/calentamiento_de_agua/Flodirect/Imagen_15-10-21_a_las_12_05.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "1",
-        "sectionId": "4",
-        "id": "12",
-        "name": "",
-        "img": "/img/detail/calentamiento_de_agua/otros/Agua_caliente_instantanea.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
         "categoryId": "2",
         "sectionId": "1",
-        "id": "13",
+        "id": "8",
         "name": "",
         "img": "/PDFs/sistemas_de_vapor/Equipos/lattner.png",
         "description": "",
@@ -92,7 +74,7 @@
     {
         "categoryId": "2",
         "sectionId": "1",
-        "id": "14",
+        "id": "9",
         "name": "",
         "img": "/PDFs/sistemas_de_vapor/Equipos/FTS-7_29_11.png",
         "description": "",
@@ -101,136 +83,10 @@
     {
         "categoryId": "2",
         "sectionId": "2",
-        "id": "16",
+        "id": "10",
         "name": "",
         "img": "/img/detail/sistemas_de_vapor/Vapor/Captura_de_Pantalla_2021-10-15_a_la(s)_12_08_54.png",
         "description": "",
         "pdf": "/PDFs/sistemas_de_vapor/Vapor/Captura_de_Pantalla_2021-10-15_a_la(s)_12_08_54.pdf"
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "1",
-        "id": "17",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Pretratamiento/sistema_de_bombeo_on_off.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "1",
-        "id": "18",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Pretratamiento/sistema_de_osmosis_inversa_para_lavado_de_material_quirurgico.jpeg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "1",
-        "id": "19",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Pretratamiento/sistema_de_osmosis_inversa.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "2",
-        "id": "20",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/proyectos_de_reuso_de_agua/sistema_de_bombeo_de_velocidad_variable.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "3",
-        "id": "21",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/servicio_y_control/sistema_automatico_de_dosificacion.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "3",
-        "id": "22",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/servicio_y_control/sistema_de_dosificacion_automatico.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "4",
-        "id": "23",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Tratamiento_de_agua/1185325_486024774821547_52396255_n.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "4",
-        "id": "24",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Tratamiento_de_agua/1669866_750866225004066_9169448978026217321_o.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "4",
-        "id": "25",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Tratamiento_de_agua/12068622_884207685003252_1404641545777806972_o.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "4",
-        "id": "26",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Tratamiento_de_agua/12069016_884207681669919_5288618190646208579_o.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "4",
-        "id": "27",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Tratamiento_de_agua/15622152_1190865111004173_9057080797459120052_n.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "4",
-        "id": "28",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Tratamiento_de_agua/73304577_2519109061513098_7453060682938843136_n.jpeg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "4",
-        "id": "29",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Tratamiento_de_agua/94756413_2910503172373683_2978623737479299072_n.jpg",
-        "description": "",
-        "pdf": ""
-    },
-    {
-        "categoryId": "3",
-        "sectionId": "4",
-        "id": "30",
-        "name": "",
-        "img": "/img/detail/tratamiento_de_agua/Tratamiento_de_agua/tratamiento_de_agua_de_calderas.jpg",
-        "description": "",
-        "pdf": ""
     }
 ]
