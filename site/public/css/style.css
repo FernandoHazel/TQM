@@ -6,6 +6,7 @@ a[href^="tel:"] {
 /*------ template stylization ------*/body {
   background: #303030;
 }
+
 .content ul {
   list-style-type: none;
 }
@@ -732,6 +733,9 @@ h1.brand a span {
 }
 .block-3 {
   padding-bottom: 23px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .block-3-box {
   border: #eaeaea 1px solid;

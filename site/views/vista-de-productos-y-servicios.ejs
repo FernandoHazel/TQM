@@ -19,11 +19,12 @@
       <div style="text-align: center; font-size: 14px; padding-left: 10%; padding-right: 10%; padding-bottom: 10%;">
         <span><%=category.description%></span>
       </div>
-      
-  </div>
+      <!--Aquí incluimos el grid correspondiente--> 
+      <%- include('./partials/grids/'+ category.name + '.ejs') %>
+       
+  </div >
     <% sectionArray.forEach(section => {%>
 
-      
       <!--Revisamos que la sección tenga algún detalle para poder mostrar el nombre de la sección-->
       <% for (var i = 0; i < detailArray.length ; i++) {%>
         <% if ( category.categoryId == detailArray[i].categoryId && section.sectionId == detailArray[i].sectionId){%>
@@ -36,24 +37,26 @@
       <% } %>
 
       <% if (category.categoryId == section.categoryId && haveDetail == true){%>
-        <h2><%=section.name%></h2>
+        <h2 style="text-align: center;"><%=section.name%></h2>
         <ul class="block-3 row">
         
         <% detailArray.forEach(detail => {%>
           <% if (category.categoryId == detail.categoryId && section.sectionId == detail.sectionId){%>
-            <li class="span3" style="margin-bottom: 5%; width: 300px;">
+            <li class="span3" style="margin-bottom: 5%; width: 70vw;">
               <div class="block-3-box">
                   <a  href="<%=detail.img%>"><img src="<%=detail.img%>" alt=""></a>
                     <!--<div class="caption maxheight4"><%=//detail.name%></div>-->
               </div>
                 <%=detail.description%> 
                 <br>
-                <% if (detail.pdf == ""){%>
-                  <a href="/cotizacion" class="btn">cotizar</a>
-                  <!--<a href="/detalle/<//%=detail.id%>" class="btn">cotizar</a>-->
-                <% }else{ %>
-                  <a href="<%=detail.pdf%>" class="btn">ver pdf</a>
-                <% }%>
+                <div style="text-align: center;">
+                  <% if (detail.pdf == ""){%>
+                    <a href="/cotizacion" class="btn">cotizar</a>
+                    <!--<a href="/detalle/<//%=detail.id%>" class="btn">cotizar</a>-->
+                  <% }else{ %>
+                    <a href="<%=detail.pdf%>" class="btn">ver pdf</a>
+                  <% }%>
+                </div>
             </li>
           <% }%>
         <% })%>
